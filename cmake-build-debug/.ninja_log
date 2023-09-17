@@ -1,0 +1,6 @@
+# ninja log v5
+0	11	1694573325364259299	build.ninja	1c5547cc4364f62e
+0	16	1686981082261630277	CMakeFiles/untitled.dir/fork/fork0.c.o	d4e557604ad4efc8
+0	17	1686981165887333668	CMakeFiles/untitled.dir/main.c.o	242c3b5a7a35d2ca
+0	20	1686981105198037713	CMakeFiles/untitled.dir/fork/fork_1.c.o	7d0f2a6b80618af9
+15	30	1686436778217820300	untitled	5de9808f14c8af3e
